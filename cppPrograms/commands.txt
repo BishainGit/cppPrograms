@@ -1,0 +1,4 @@
+compile c++ program
+  g++ fileneme.cpp
+run c++ program
+  ./a.out
