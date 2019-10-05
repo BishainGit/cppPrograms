@@ -1,1 +1,2 @@
 # cppPrograms
+c++ Projects, Embadded sytems with Makefile Projects,Data Structure And Algorithms(disjoint sets, Kruskal MST, Floyed Warshal, Dijkstra's, Bellman Ford shortest path,Min Cut,Strongly Connected Components), C++ STL(vector, array, list, map, Multimap, set, multiset), c++ fstream, c++ regex, c++ Bitmanipulation, command LineArguements, gcd_hcf_lcm, hashingCollision, minimum Edge to make ,PostOrderFromInorderAndPreorder, 
